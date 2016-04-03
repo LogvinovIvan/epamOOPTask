@@ -1,0 +1,119 @@
+2016-02-29 00:49:21 log [INFO] Parser configured
+2016-02-29 00:49:21 log [INFO] Start of parsing
+2016-02-29 00:49:21 log [INFO] Add new plane
+2016-02-29 00:49:21 log [INFO] Add new plane
+2016-02-29 00:49:21 log [INFO] End of parsing
+2016-02-29 00:49:21 log [INFO] Add new plane
+2016-02-29 00:49:21 log [INFO] Add new plane
+2016-02-29 00:49:21 log [INFO] End of parsing
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:52:18 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:54:43 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 00:55:28 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:01 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Absent tag in node
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:22:49 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Absent tag in node
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 01:26:16 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Absent tag in node
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Invalidate data in tag
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [INFO] Add new plane
+2016-02-29 13:37:31 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [INFO] Add0plane name = IL-96
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [INFO] Add1plane name = TU-154
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Absent tag in node
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Invalidate data in tag
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [INFO] Add1plane name = AN-25
+2016-03-01 16:28:04 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [INFO] Add 0 plane name = IL-96
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [INFO] Add 1 plane name = TU-154
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Absent tag in node
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Invalidate data in tag
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [INFO] Add 1 plane name = AN-25
+2016-03-01 16:28:38 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [INFO] Add 1 plane name = IL-96
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [INFO] Add 2 plane name = TU-154
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Absent tag in node
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Invalidate data in tag
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [INFO] Add 2 plane name = AN-25
+2016-03-01 16:34:20 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [INFO] Parser configured
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [INFO] Start of parsing
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [INFO] Add 1 plane name = IL-96
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [INFO] Add 2 plane name = TU-154
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Absent tag in node
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [INFO] End of parsing
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [ERROR] by.bsuir.exceptions.InvalidateXMLDataException: Invalidate data in tag
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [INFO] Add 3 plane name = AN-25
+2016-03-01 16:38:04 bsuir.parsers.PlaneDomParser [INFO] End of parsing

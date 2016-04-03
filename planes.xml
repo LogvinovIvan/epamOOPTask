@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planes>
+    <screw>
+        <name>AN-125</name>
+        <countSeats>10</countSeats>
+        <capacity>120</capacity>
+        <fuelConsumption>25</fuelConsumption>
+        <rangeFlight>15000</rangeFlight>
+        <countScrew>-8</countScrew>
+    </screw>
+    <screw>
+        <name>AN-25</name>
+        <countSeats>20</countSeats>
+        <capacity>6</capacity>
+        <fuelConsumption>15</fuelConsumption>
+        <rangeFlight>2000</rangeFlight>
+        <countScrew>2</countScrew>
+    </screw>
+    <turbine>
+        <name>IL-96</name>
+        <countSeats>120</countSeats>
+        <capacity>25</capacity>
+        <fuelConsumption>30</fuelConsumption>
+        <rangeFlight>10000</rangeFlight>
+        <powerTurbine>268</powerTurbine>
+    </turbine>
+    <turbine>
+    <name>TU-154</name>
+    <countSeats>130</countSeats>
+    <capacity>31</capacity>
+    <fuelConsumption>11</fuelConsumption>
+    <rangeFlight>13000</rangeFlight>
+    <powerTurbine>268</powerTurbine>
+</turbine>
+    <turbine>
+        <name>TU-154</name>
+        <capacity>31</capacity>
+        <fuelConsumption>11</fuelConsumption>
+        <rangeFlight>13000</rangeFlight>
+        <powerTurbine>268</powerTurbine>
+    </turbine>
+</planes>
